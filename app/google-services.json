@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "179622998322",
+    "firebase_url": "https://emsdatabasev2.firebaseio.com",
+    "project_id": "emsdatabasev2",
+    "storage_bucket": "emsdatabasev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179622998322:android:f976ff1f705fed16",
+        "android_client_info": {
+          "package_name": "com.example.firstrespondertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179622998322-qgb8i7vid28pcupmhtu0f3qqvsub0qg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstrespondertest",
+            "certificate_hash": "29c1b03fc2da1a182053f4b5e8cc17c76265a2f8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQQLLqZk6sNP-X6NxVgiK-fl5JI5CpX3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179622998322-74gkcbc0r7hm3edmli88d3s7lcdt186g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
